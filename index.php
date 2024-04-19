@@ -14,17 +14,22 @@
 		<!-- Header -->
 			<header id="header">
 				<h1>Willkommen bei Hugo Hirsch</h1>
-				<p>A simple template for telling the world when you'll launch<br />
-				your next big thing. Brought to you by <a href="http://html5up.net">HTML5 UP</a>.</p>
+				<p>Freunde des Waldes<br />
+				und der Kunst und Natur<br />
+			von Freude gezeichnet von Kunst keine Spur.</p>
+			<p>Du suchst den Inhalt<br />
+				hier könnte er sein<br />
+				doch diese Seite dient nur dem schönen Schein.
+			</p>
 			</header>
 
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+					<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#107;&#111;&#110;&#116;&#97;&#107;&#116;&#64;&#104;&#117;&#103;&#111;&#45;&#104;&#105;&#114;&#115;&#99;&#104;&#46;&#100;&#101;" class="icon fa-envelope"><span class="label">Hugo Hirsch</span></a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; Untitled.</li><li>Credits: <a href="http://html5up.net/eventually">Eventually by HTML5 UP</a></li>
+					<li>&copy; 1996-<?php echo date("Y"); ?> HugoHirsch.</li><li>Template credits: <a href="http://html5up.net/eventually">Eventually by HTML5 UP</a></li>
 				</ul>
 			</footer>
 
