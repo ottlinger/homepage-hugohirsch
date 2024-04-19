@@ -6,8 +6,15 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<meta name="Robots" content="NOINDEX,NOFOLLOW"/>
 		<meta name="DC.Language" content="de"/>
-		<meta name="DC.Date" content="2024-04-19"/>
+		<meta name="DC.Date" content="<?php echo date('Y-m-d'); ?>"/>
+		<meta name="DC.Title" content="Hugo Hirsch"/>
+	  <meta name="DC.Author" content="Hugo Hirsch - Aiki IT"/>
+	  <meta name="DC.Publisher" content="Hugo Hirsch - Aiki IT"/>
+	  <meta name="DC.Copyright" content="(C) 1996-<?php echo date('Y'); ?> Hugo Hirsch - Aiki IT"/>
 		<title>https://www.hugo-hirsch.de - Willkommen im Wald</title>
+		<link rel="icon" href="./favicon.ico" type="image/x-icon" />
+		<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+		<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
 	</head>
 	<body class="is-preload">
 
