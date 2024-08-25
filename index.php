@@ -36,7 +36,7 @@
 					<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#107;&#111;&#110;&#116;&#97;&#107;&#116;&#64;&#104;&#117;&#103;&#111;&#45;&#104;&#105;&#114;&#115;&#99;&#104;&#46;&#100;&#101;" class="icon fa-envelope"><span class="label">Hugo Hirsch</span></a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; 1996-<?php echo date("Y"); ?> HugoHirsch.</li><li>Template credits: <a href="http://html5up.net/eventually">Eventually by HTML5 UP</a></li>
+					<li>&copy; 1996-<?php echo date("Y").' v'.phpversion(); ?> HugoHirsch.</li><li>Template credits: <a href="http://html5up.net/eventually">Eventually by HTML5 UP</a></li>
 				</ul>
 			</footer>
 
